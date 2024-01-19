@@ -91,3 +91,9 @@ většinu napájení bohužel nemůžeme objednat v Číně, protože by to nedo
 - [Pinout](https://electropeak.com/learn/wp-content/uploads/2020/09/GY271-Arduino-Pinout.jpg)
 - [Datasheet](https://cdn-shop.adafruit.com/datasheets/HMC5883L_3-Axis_Digital_Compass_IC.pdf)
 - [🛒 AliExpress](https://www.aliexpress.com/item/1005002525957722.html)
+
+## Akcelerometr
+### GY-521 MPU-6050
+- [Pinout](https://electropeak.com/learn/wp-content/uploads/2020/11/MPU6050-Pin.jpg)
+- [Datasheet](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf)
+- [🛒 AliExpress](https://www.aliexpress.com/item/32340949017.html)
