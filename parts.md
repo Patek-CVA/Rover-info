@@ -85,3 +85,9 @@ většinu napájení bohužel nemůžeme objednat v Číně, protože by to nedo
 - [Pinout](https://electrobes.com/wp-content/uploads/2019/05/pinout-of-lm2596-dc-dc-buck-converter-module-adjustable-power-supply-board-in-pakistan.webp)
 - [Datasheet](https://www.ti.com/lit/ds/symlink/lm2596.pdf)
 - [🛒 AliExpress](https://www.aliexpress.com/item/10000000656280.html)
+
+## Kompas
+### GY-271 HMC5883
+- [Pinout](https://electropeak.com/learn/wp-content/uploads/2020/09/GY271-Arduino-Pinout.jpg)
+- [Datasheet](https://cdn-shop.adafruit.com/datasheets/HMC5883L_3-Axis_Digital_Compass_IC.pdf)
+- [🛒 AliExpress](https://www.aliexpress.com/item/1005002525957722.html)
