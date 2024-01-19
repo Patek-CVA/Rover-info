@@ -32,7 +32,7 @@
 - built-in ledka (miniblesk)
 - [Pinout](https://lastminuteengineers.com/wp-content/uploads/iot/ESP32-CAM-Pinout.png)
 - [Datasheet](https://loboris.eu/ESP32/ESP32-CAM%20Product%20Specification.pdf)
-- [🛒 AliExpress](https://www.aliexpress.com/item/1005003472117545.html)
+- [🛒 AliExpress](https://www.aliexpress.com/item/1005006097541310.html)
 
 ## Napájení
 většinu napájení bohužel nemůžeme objednat v Číně, protože by to nedošlo v rozumném čase 
