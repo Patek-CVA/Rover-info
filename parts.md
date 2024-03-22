@@ -13,7 +13,7 @@
 - nemá heat sink, vysoká efektivita, velmi málo energie se převádí na teplo
 - standby low - úsporný režim
 - vstup do 15 V
-- [Pinout](https://cdn.sparkfun.com/assets/parts/3/1/5/7/09457-04.jpg)
+- [Pinout](https://electropeak.com/learn/wp-content/uploads/2020/12/TB6612FBG-Dual-Driver-Pinout.jpg)
 - [Datasheet](https://toshiba.semicon-storage.com/info/datasheet_en_20141001.pdf?did=10660)
 - [🛒 AliExpress](https://www.aliexpress.com/item/32465698640.html)
 
