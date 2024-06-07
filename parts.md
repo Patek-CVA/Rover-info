@@ -19,7 +19,7 @@
 
 ## Microcontroller
 ### ESP-32 (CP2102 USB-C)
-- [Pinout](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/_images/esp32-devkitC-v4-pinout.png)
+- [Pinout](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/_images/esp32-devkitC-v4-pinout.png)
 - [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf)
 - [🛒 AliExpress](https://www.aliexpress.com/item/4000090521976.html) (+ i pěkný terminal adapter)
 
